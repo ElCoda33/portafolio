@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Template Name: Bocor
+Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
